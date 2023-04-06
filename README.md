@@ -93,7 +93,7 @@ chmod +x ./start.sh
 
 
 ## Step 5: Test it out
-You should already be authenticate, but you can authenticate again.  
+You should already be authenticated, but you can authenticate again.  
 ```
 export BOUNDARY_ADDR=<insert>
 boundary authenticate 
